@@ -37,7 +37,7 @@ Aquest repositori llista alguns recursos gratuïts per ampliar els coneixements 
 * [WWDC 2018](https://developer.apple.com/videos/wwdc2018)
 * [WWDC 2017](https://developer.apple.com/videos/wwdc2017)
 * [NSSpain](https://vimeo.com/nsspain/videos)
-* [[Channel] Let's Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+* [Channel - Let's Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
 * [Swift Tutorial](https://www.youtube.com/watch?v=6Zf79Ns8_oY)
 * [Setup & Login w/ Email & Password (Swift 4.0, iOS11, Xcode 9 Beta) - Swift & Firebase Part 1](https://www.youtube.com/watch?v=UPKCULKi0-A)
 * [Build Custom Table View Cell like Card View](https://www.youtube.com/watch?v=ZEuoaTF1bok)
@@ -69,7 +69,7 @@ Aquest repositori llista alguns recursos gratuïts per ampliar els coneixements 
 ## 🧺 Altres
 
 * Tutorials sobre múltiples temes: [Ray Wenderlich](https://www.raywenderlich.com/ios)
-* Butlletí setmanal amb projectes, llibreries i articles: [iOS Dev Weekly(https://iosdevweekly.com)
+* Butlletí setmanal amb projectes, llibreries i articles: [iOS Dev Weekly](https://iosdevweekly.com)
 * Sintaxi original del format Markdown: [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)
 * Guia sobre Markdown amb una introducció molt completa: [Markdown Guide Getting Started](https://www.markdownguide.org/getting-started)
 * Guia d'estil de Google per Swift: [Swift Style Guide](https://google.github.io/swift)
