@@ -54,10 +54,16 @@ Aquest repositori llista alguns recursos gratuïts per ampliar els coneixements 
 	 * [Iconfinder](https://www.iconfinder.com)
 	 * [PixelLove](https://www.pixellove.com)
 	 * [SVG repo](https://www.svgrepo.com)
+	 * [The Noun Project](https://thenounproject.com)
+	 * [Fontawesome](https://fontawesome.com)
 	 * [Fontown](https://www.fontown.com/es)
 	 * [Flat UI Colors 2](https://flatuicolors.com)
 	 * [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors) 
 	 * [Adobe Color Wheel](https://color.adobe.com/es/create/color-wheel)
+	 * [Colorzilla](http://www.colorzilla.com)
+	 * [Color Hunt](https://colorhunt.co)
+	 * [Material Palette](https://www.materialpalette.com)
+	 
 
 ## ⏱ Control de versions (Git)
 
