@@ -58,6 +58,10 @@ Aquest repositori llista alguns recursos gratuïts per ampliar els coneixements 
 	 * [Flat UI Colors 2](https://flatuicolors.com)
 	 * [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors) 
 	 * [Adobe Color Wheel](https://color.adobe.com/es/create/color-wheel)
+	 * [Colorzilla](http://www.colorzilla.com)
+	 * [Color Hunt](https://colorhunt.co)
+	 * [Material Palette](https://www.materialpalette.com)
+	 * [The Noun Project](https://thenounproject.com)
 
 ## ⏱ Control de versions (Git)
 
